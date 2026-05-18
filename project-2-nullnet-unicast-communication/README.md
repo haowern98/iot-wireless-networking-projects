@@ -20,12 +20,6 @@ This project demonstrates one-to-one communication between wireless nodes using 
 - `nullnet_receiver.c`
   Starts in receive mode, then switches to transmit mode after a timed interval to support a bidirectional experiment.
 
-## Platform
-
-- Contiki-NG
-- NullNet
-- TI SensorTag CC2650
-
 ## How to Run
 
 1. Place the source files in a Contiki-NG example workspace.

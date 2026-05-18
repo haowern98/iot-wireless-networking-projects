@@ -20,14 +20,6 @@ This project implements two Contiki-NG sensor applications for the TI SensorTag 
 - `sensor_state_machine.c`
   Implements a more complex four-state workflow (`IDLE`, `INTERIM`, `BUZZ`, `WAIT`) with separate motion and light detection phases and interruption handling.
 
-## Platform
-
-- Contiki-NG
-- TI SensorTag CC2650
-- `opt_3001_sensor` for light sensing
-- `mpu_9250_sensor` for motion sensing
-- onboard buzzer peripheral
-
 ## How to Run
 
 1. Place the source file in a Contiki-NG example workspace.

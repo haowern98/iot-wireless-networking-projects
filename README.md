@@ -17,7 +17,7 @@ Assignment specification PDFs and statement-of-work files are intentionally excl
 - [Project 3: Link-Aware Sensor Data Transfer](project-3-link-aware-sensor-data-transfer/README.md)
   Discovery, link evaluation, and ACK-based chunked transfer of sensor data between wireless nodes.
 
-## Tech Stack
+## Platform and Tools
 
 - C
 - Contiki-NG

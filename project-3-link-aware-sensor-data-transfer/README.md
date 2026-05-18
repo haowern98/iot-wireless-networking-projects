@@ -21,13 +21,6 @@ This project implements a more complete wireless sensing and transfer workflow b
 - `link_aware_receiver.c`
   Implements the collector node, including reply generation, transfer coordination, ACK handling, and reconstruction of the received sensor arrays.
 
-## Platform
-
-- Contiki-NG
-- NullNet
-- TI SensorTag CC2650
-- onboard light and motion sensors
-
 ## Key Behaviors
 
 - sensor data is sampled into 60 readings
