@@ -6,8 +6,6 @@ Selected wireless networking and IoT systems projects from `CS4222 Wireless Netw
 
 This repository collects three embedded wireless systems projects built with Contiki-NG and the TI SensorTag CC2650 platform. The projects focus on sensor-driven state machines, low-level wireless communication with NullNet, and link-aware data transfer over intermittent wireless contact.
 
-Assignment specification PDFs and statement-of-work files are intentionally excluded.
-
 ## Projects
 
 - [Project 1: Sensor State Machine](project-1-sensor-state-machine/README.md)
